@@ -38,6 +38,9 @@ This repository contains a Python-based calculator for determining the Gibbs fre
 | ------- | ------------------------ | ---------------------------- | --------- |
 | Aluminium |	933.47 |	932.12 |	0.15 |
 
-<img src = "Calculated.png" height = 200px width="auto"/>
+<p align="center">
+  <img src="Calculated.png" height="500px" width="auto"/>
+</p>
+
 ## History
 This project was initially developed for Aluminium as a part of Materials Modelling and has since been generalized to accommodate other elements. The original Aluminium-specific code is available here.
