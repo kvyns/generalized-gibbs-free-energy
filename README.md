@@ -19,7 +19,7 @@ This repository contains a Python-based calculator for determining the Gibbs fre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/generalized-gibbs-free-energy.git
+   git clone https://github.com/kvyns/generalized-gibbs-free-energy.git
    ```
 2. Install the required packages:
    ```bash
@@ -39,4 +39,4 @@ This repository contains a Python-based calculator for determining the Gibbs fre
 | Aluminium |	933.47 |	932.12 |	0.15 |
 
 ## History
-This project was initially developed for Aluminium and has since been generalized to accommodate other elements. The original Aluminium-specific code is available here.
+This project was initially developed for Aluminium as a part of Materials Modelling and has since been generalized to accommodate other elements. The original Aluminium-specific code is available here.
